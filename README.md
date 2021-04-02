@@ -1,16 +1,17 @@
-### Hi there 👋
+I'm a software engineer at [Espressif](https://www.espressif.com/) working on tools to make embedded software development slick and smooth.
 
-<!--
-**kumekay/kumekay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current projects
 
-Here are some ideas to get you started:
+- [Hydroponics for leafy greens](https://www.instagram.com/hort_io/)
+- [Wi-Fi LED strip controller](https://hackaday.io/project/175814-volumetric-wi-fi-led-strip-controller)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profiles
+
+- [Blog](https://kumekay.com)
+- [Twitter](https://twitter.com/kumekay)
+
+## GitHub Stats
+
+[<img src="https://github-readme-stats.vercel.app/api?username=kumekay&&show_icons=true">](https://github.com/kumekay)
+
+![Profile views](https://gpvc.arturio.dev/kumekay)
