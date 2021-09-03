@@ -2,7 +2,7 @@ I'm a software engineer at [Espressif](https://www.espressif.com/) working on to
 
 ## Current projects
 
-- [Hydroponics for leafy greens](https://www.instagram.com/hort_io/)
+- [Hydroponics for leafy greens](https://www.instagram.com/volumetricone/)
 - [Wi-Fi LED strip controller](https://hackaday.io/project/175814-volumetric-wi-fi-led-strip-controller)
 
 ## Profiles
@@ -13,5 +13,3 @@ I'm a software engineer at [Espressif](https://www.espressif.com/) working on to
 ## GitHub Stats
 
 [<img src="https://github-readme-stats.vercel.app/api?username=kumekay&&show_icons=true">](https://github.com/kumekay)
-
-![Profile views](https://gpvc.arturio.dev/kumekay)
