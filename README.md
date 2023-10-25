@@ -1,15 +1,13 @@
-I'm a software engineer at [Espressif](https://www.espressif.com/) working on tools to make embedded software development slick and smooth.
+I'm a software engineer at [Espressif](https://www.espressif.com/) working on tools to make embedded software development slick and simplify opensource collaboration
 
 ## Current projects
 
-- [Hydroponics for leafy greens](https://www.instagram.com/volumetricone/)
-- [Wi-Fi LED strip controller](https://hackaday.io/project/175814-volumetric-wi-fi-led-strip-controller)
+- [Macbleth: macOS tablet](https://hackaday.io/project/193037-macbleth-macos-tablet)
+- [crabapplepad: Wireless minimalistic slim foldable split keyboard](https://github.com/kumekay/crabapplepad)
 
 ## Profiles
 
 - [Blog](https://kumekay.com)
 - [Twitter](https://twitter.com/kumekay)
-
-## GitHub Stats
-
-[<img src="https://github-readme-stats.vercel.app/api?username=kumekay&&show_icons=true">](https://github.com/kumekay)
+- [Hackaday](https://hackaday.io/projects/hacker/517930)
+- [LinkedIn](https://www.linkedin.com/in/silnov/)
